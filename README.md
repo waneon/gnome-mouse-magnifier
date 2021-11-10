@@ -2,11 +2,11 @@
 
 gnome magnifier with mouse hotkeys using gsettings
 
-## usage
+## Usage
 
 set your hotkey in src/main.c
 
-```
+```c
 // magnifier hotkeys
 #define MAGNIFIER_TOGGLE_KEY 9
 #define MAGNIFIER_TOGGLE_MODIFIERS AnyModifier
