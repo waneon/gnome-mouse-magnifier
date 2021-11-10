@@ -2,10 +2,11 @@
 #include <X11/Xlib.h>
 #include <X11/Xutil.h>
 #include <stdlib.h>
+#include <stdio.h>
 
 // magnifier factor
 #define MAGNIFIER_FACTOR 1.5
-#define MAGNIFIER_FACTOR_CHANGE 0.25
+#define MAGNIFIER_FACTOR_CHANGE 0.5
 
 // magnifier hotkeys
 #define MAGNIFIER_TOGGLE_KEY 9
