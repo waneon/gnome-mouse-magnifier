@@ -1,6 +1,6 @@
 # gnome-mouse-magnifier
 
-gnome magnifier with mouse hotkeys using gsettings
+gnome magnifier with mouse hotkeys using gsettings on x11
 
 ## Usage
 
