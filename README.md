@@ -1,5 +1,7 @@
 # gnome-mouse-magnifier
 
+**This repository has been deprecated. Use [magfy](https://github.com/waneon/magfy) instead.**
+
 gnome magnifier with mouse hotkeys using gsettings on x11
 
 ## Usage
